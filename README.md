@@ -33,12 +33,15 @@ The second task builds upon the first one, enhancing the HTML structure with add
 - Enhanced structure for better user experience
 - Improved navigation and styling
 
-## Live Demo
+## Screenshots
 
-For the live demo, the HTML files can be hosted on platforms such as GitHub Pages, Netlify, or any other web hosting service.
+### 🖼️ Basic HTML Webpage
+![Homepage Screenshot](./screenshots/homepage.png)
 
-- [Live Demo for Task 1](#)
-- [Live Demo for Task 2](#) 
+### 🧑‍🏫 Enhanced HTML Webpage
+![Courses Screenshot](./screenshots/courses.png)
+
+
 
 ## Installation
 
