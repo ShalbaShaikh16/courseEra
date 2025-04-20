@@ -35,11 +35,12 @@ The second task builds upon the first one, enhancing the HTML structure with add
 
 ## Screenshots
 
-### 🖼️ Basic HTML Webpage
-![Homepage Screenshot](./screenshots/homepage.png)
+### 🖥️ Basic HTML Webpage
+![Homepage Screenshot](https://github.com/ShalbaShaikh16/courseEra/blob/master/course1.png?raw=true)
 
 ### 🧑‍🏫 Enhanced HTML Webpage
-![Courses Screenshot](./screenshots/courses.png)
+![Homepage Screenshot](https://github.com/ShalbaShaikh16/courseEra/blob/master/course.png?raw=true)
+)
 
 
 
